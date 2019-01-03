@@ -1,0 +1,8 @@
+numpy==1.15.3
+tensorflow==1.11.0
+tensorboard==1.11.0
+matplotlib==3.0.1
+scikit-learn==0.20.0
+scipy==1.1.0
+cloudpickle==0.6.1
+nibabel==2.3.0
